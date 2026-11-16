@@ -1,0 +1,11 @@
+segment,customers,revenue_gbp,avg_recency_days,avg_orders,avg_spend_gbp,avg_order_value_gbp,share_of_customers_pct,share_of_revenue_pct,action
+Champions,826,8760101.58,8.99,19.26,10605.45,415.07,14.11,51.32,Reward; early access to new ranges; ask for reviews
+Loyal customers,1155,4679861.87,66.50,9.78,4051.83,387.27,19.74,27.42,Upsell higher-value ranges; loyalty scheme
+Potential loyalists,711,812036.53,26.13,2.57,1142.10,468.88,12.15,4.76,Membership offer; recommend related products
+New customers,52,18291.28,10.58,1.00,351.76,351.76,0.89,0.11,Onboarding emails; make the second order easy
+Promising,114,35726.88,38.10,1.00,313.39,313.39,1.95,0.21,Build awareness of the wider range; small incentive
+Need attention,269,338728.39,112.96,3.15,1259.21,400.20,4.60,1.98,"Time-limited, personalised offer"
+About to sleep,384,205569.76,105.77,1.36,535.34,399.32,6.56,1.20,Reactivation email with popular products
+Can't lose,72,503405.14,327.83,16.36,6991.74,373.67,1.23,2.95,Personal contact; win back before they leave
+At risk,758,1094023.37,371.95,3.90,1443.30,377.02,12.95,6.41,Win-back campaign; find out what changed
+Hibernating,1511,620823.17,456.94,1.25,410.87,329.80,25.82,3.64,Low-cost reminder only; do not over-spend

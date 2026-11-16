@@ -1,0 +1,7 @@
+step,rows_remaining,rows_removed
+Raw rows (both sheets),1067371,0
+Remove exact duplicate rows,1033036,34335
+Remove rows with no customer ID,797885,235151
+Remove cancellations (invoice starts with C),779495,18390
+"Remove non-product codes (postage, fees, adjustments)",776637,2858
+Remove zero or negative quantity or price,776577,60

@@ -1,0 +1,12 @@
+segment,customers,bought_again_pct,avg_holdout_spend_gbp,holdout_revenue_gbp,share_of_holdout_revenue_pct
+Champions,723,90.18,3684.55,2663930.30,58.44
+Loyal customers,976,76.33,987.42,963718.59,21.14
+Potential loyalists,518,57.92,737.07,381800.57,8.38
+New customers,60,56.67,487.92,29275.11,0.64
+Promising,121,42.98,357.64,43274.51,0.95
+Need attention,246,47.15,266.52,65563.35,1.44
+About to sleep,320,34.06,159.45,51023.69,1.12
+Can't lose,58,39.66,372.78,21621.18,0.47
+At risk,667,41.38,280.34,186985.73,4.10
+Hibernating,1252,21.49,120.61,151003.63,3.31
+All customers,4941,52.14,922.53,4558196.66,100.00
