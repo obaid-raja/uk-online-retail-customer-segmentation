@@ -4,7 +4,7 @@
 
 This project cleans two years of real transactions (about 1.07 million rows, Dec 2009 to Dec 2011) from a UK-based online retailer of giftware, scores all 5,852 customers on **Recency, Frequency and Monetary value (RFM)**, and groups them into ten segments with a recommended action for each. It then checks that the segments actually predict future buying, using a six-month holdout period the segments never saw.
 
-**▶ Interactive dashboard:** *Tableau Public link coming soon*
+**Interactive Tableau Public dashboard:** in progress. The data sources are ready in [`outputs/tableau/`](outputs/tableau).
 
 ## Results
 
