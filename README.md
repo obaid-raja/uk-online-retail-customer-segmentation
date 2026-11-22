@@ -109,4 +109,4 @@ tests/
 My earlier work was on the operations side (raw-material forecasting at a feed mill) and in airline commercial analytics. This project applies the same approach to customers: start from the business question, clean the data carefully, test whether the method works on data it hasn't seen, and end with a recommended action for each group.
 
 ---
-Data: Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D (CC BY 4.0). Built by [Obaid Ullah Masood Raja](https://www.linkedin.com/in/obaidullah-masood-raja-225795218).
+Data: Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D (CC BY 4.0). Built by [Obaid Ullah Masood Raja](https://www.linkedin.com/in/raja-obaid).
